@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is a welcome bot that automatically sends friendly welcome messages. 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- automatically send friendly welcome messages
 
 ## Getting started
 
